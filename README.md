@@ -1,4 +1,3 @@
-# Micros
 echo "# Micros" >> README.md 
 git init 
 git agregar README.md 
